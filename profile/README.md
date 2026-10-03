@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Sitio Web Oficial](https://img.shields.io/badge/Web-fechitat.cl-0033A0?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fechitat.cl)
-[![Tools de Entrenamiento](https://img.shields.io/badge/Tools-tools.fechitat.cl-D21034?style=for-the-badge&logo=vite&logoColor=white)](https://tools.fechitat.cl)
+[![Tools de Entrenamiento](https://img.shields.io/badge/Tools-tools-sigma-olive.vercel.app-D21034?style=for-the-badge&logo=vite&logoColor=white)](https://tools-sigma-olive.vercel.app)
 [![Patrocinios](https://img.shields.io/badge/Dobok-dobok.fechitat.cl-0b1220?style=for-the-badge&logo=supabase&logoColor=white)](https://dobok.fechitat.cl)
 
 <br/>
@@ -20,7 +20,7 @@ Aquí vive el ecosistema digital federativo: sitios institucionales y herramient
 | Repositorio | Stack | Descripción | Enlaces |
 | :--- | :--- | :--- | :--- |
 | [**`website`**](https://github.com/fechitat/website) | **Astro 5** + Tailwind CSS + Sanity CMS | Portal institucional oficial de FECHITAT: escuelas, instructores, sedes, noticias y eventos oficiales. | [fechitat.cl](https://fechitat.cl) |
-| [**`tools`**](https://github.com/fechitat/tools) | **React 19** + Vite + Tailwind CSS v4 | Herramientas interactivas de tatami: temporizador de formas reglamentarias, explorador y cronómetro de TUL. | [tools.fechitat.cl](https://tools.fechitat.cl) |
+| [**`tools`**](https://github.com/fechitat/tools) | **React 19** + Vite + Tailwind CSS v4 | Herramientas interactivas de tatami: temporizador de formas reglamentarias, explorador y cronómetro de TUL. | [tools-sigma-olive.vercel.app](https://tools-sigma-olive.vercel.app) |
 
 ---
 
